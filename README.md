@@ -1,6 +1,6 @@
 # ForEnt code
 
-Code used to produce the derived files of the ForEnt dataset and to label its entrapments. Every script reads the released dataset folder (the unzipped `common.zip` and `site_N_k.zip` files, plus `videos/`).
+Code used to produce the derived files of the ForEnt dataset and to label its entrapments. Every script reads the released dataset folder (the unzipped `common.zip` and `site_N.zip` files, plus `videos/`).
 
 Dataset: [doi:10.5281/zenodo.23802853](https://doi.org/10.5281/zenodo.23802853)
 
